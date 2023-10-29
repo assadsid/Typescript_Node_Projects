@@ -1,4 +1,4 @@
-# Quiz Project
+# 08Project_Quiz
 
 You can run this project on npm
 
